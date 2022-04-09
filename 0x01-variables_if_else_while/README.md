@@ -1,1 +1,1 @@
-new dir for C project
+new dir
