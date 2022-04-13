@@ -5,7 +5,7 @@
  * return 0 is success
  */
 
-void print_alphabet(void)
+int main (void)
 {
 char alpha = 'a';
 while (alpha <= 'z')
