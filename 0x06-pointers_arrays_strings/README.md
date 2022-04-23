@@ -1,1 +1,1 @@
-task 6 on c pointers,arrays,strings
+C programming task 6 pointers,arrays,strings
